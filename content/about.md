@@ -1,5 +1,5 @@
 ---
-title: About Hugo XMin
+title: About Myself
 author: Yihui Xie
 ---
 
