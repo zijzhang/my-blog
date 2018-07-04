@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A minimal Hugo website</title>
+    <title>Posts on Just for your understanding</title>
     <link>/post/</link>
-    <description>Recent content in Posts on A minimal Hugo website</description>
+    <description>Recent content in Posts on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TCGA Database</title>
+      <link>/post/2018/07/02/tcga-database/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/02/tcga-database/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>

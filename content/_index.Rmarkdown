@@ -14,11 +14,11 @@ I'm writting with my blog with RStuidio, which isawosome and convenient. With Hu
 
 **My aim** 
 
-I'm a biomedical research and want to share some ideas and some new concepts here. Tons of biomecal data are producing in each day and R provides us many tools to analyze them.
+I'm a biomedical researcher and want to share some ideas and some new concepts here. Tons of biomedical data are producing in each day and R provides us many tools to analyze them.
 
-**acknowlegment**
+**Acknowlegment**
 
-Thanks to Yihui Xie, who  blogdown package and HUGO XMin theme.Githua and netlify make web pulisher easier and simpler
+Thanks to Yihui Xie, who creates blogdown package and HUGO XMin theme.Githua and netlify make web pulisher easier and simpler
 
 
 
