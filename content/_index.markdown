@@ -10,7 +10,7 @@ title: Home
 
 **Interesting** 
 
-I'm writting with my blog with RStuidio, which isawosome and convenient. With Hugo, github and Netlify, I can publish my blog in the format of webpages.
+I'm writting with my blog with RStuidio, which is awosome and convenient. With Hugo, github and Netlify, I can publish my blog in the format of webpages.
 
 **My aim** 
 

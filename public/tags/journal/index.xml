@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Just for your understanding</title>
+    <link>/tags/journal/</link>
+    <description>Recent content in Journal on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neuro-Oncology</title>
+      <link>/post/2018/07/03/neuro-oncology/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/03/neuro-oncology/</guid>
+      <description>Neuro Oncology It is the officical journal of the Society for Neuro-Oncology and published monthly from Jan.2010.
+Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, including glioma and meningioma. His valuable contribution to brain tumor is (1) (2) Reference:
+ </description>
+    </item>
+    
+  </channel>
+</rss>

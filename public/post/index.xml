@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中文测试</title>
+      <link>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>主页显示正常 markdown 标记正常。 二级页面显示正常。 需要解决的问题： 设置字体，字号以及后续排版</description>
+    </item>
+    
+    <item>
+      <title>Neuro-Oncology</title>
+      <link>/post/2018/07/03/neuro-oncology/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/03/neuro-oncology/</guid>
+      <description>Neuro Oncology It is the officical journal of the Society for Neuro-Oncology and published monthly from Jan.2010.
+Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, including glioma and meningioma. His valuable contribution to brain tumor is (1) (2) Reference:
+ </description>
+    </item>
     
     <item>
       <title>TCGA Database</title>

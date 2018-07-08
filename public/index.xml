@@ -6,10 +6,39 @@
     <description>Recent content in Home on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zijian Zhang CV</title>
+      <link>/about/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Current Position Education Research Experience Publications Awards and Grants </description>
+    </item>
+    
+    <item>
+      <title>中文测试</title>
+      <link>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>主页显示正常 markdown 标记正常。 二级页面显示正常。 需要解决的问题： 设置字体，字号以及后续排版</description>
+    </item>
+    
+    <item>
+      <title>Neuro-Oncology</title>
+      <link>/post/2018/07/03/neuro-oncology/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/03/neuro-oncology/</guid>
+      <description>Neuro Oncology It is the officical journal of the Society for Neuro-Oncology and published monthly from Jan.2010.
+Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, including glioma and meningioma. His valuable contribution to brain tumor is (1) (2) Reference:
+ </description>
+    </item>
     
     <item>
       <title>TCGA Database</title>
@@ -78,15 +107,6 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       
       <guid>/about/</guid>
       <description>Zijian Zhang CV       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
-    </item>
-    
-    <item>
-      <title>Zijian Zhang CV</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Education is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
     </item>
     
   </channel>
