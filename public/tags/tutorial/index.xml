@@ -6,10 +6,21 @@
     <description>Recent content in Tutorial on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microscope usage</title>
+      <link>/post/2018/07/27/microscope-usage/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/27/microscope-usage/</guid>
+      <description>background Lots of slides were stained by immunohistochemisty, but i can not get good pictures. Today I recognized my misusage of microscope with my supervisor&amp;rsquo;s help.
+How should I take picutres withe microscope to get clear result? For the immunohistochemisty staining with DAB and couterstaining with hematoxilin.
+At the beginning, I tried the bright field with Ph1 and it was wrong. The picutures were very urgly and seemed not like the real condition.</description>
+    </item>
     
     <item>
       <title>Another Note on A blogdown Tutorial</title>

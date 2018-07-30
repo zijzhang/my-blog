@@ -1,0 +1,18 @@
+---
+title: flow cytometry data analysis
+author: Zijian Zhang
+date: '2018-07-15'
+slug: flow-cytometry-data-analysis
+categories:
+  - R
+tags: []
+---
+What is flow cytometry?
+
+Why is flow cytometry data important?
+
+How to analyze the flow cytometry data?
+
+Analyze the data with machine learning method?
+
+

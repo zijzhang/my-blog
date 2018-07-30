@@ -10,7 +10,7 @@ title: Home
 
 **Interesting** 
 
-I'm writting with my blog with RStuidio, which is awosome and convenient. With Hugo, github and Netlify, I can publish my blog in the format of webpages.
+I'm writting with my blog with RStuidio, which is awosome and convenient. With Hugo, github and Netlify, I can publish my blogs in the format of webpages.
 
 **My aim** 
 
@@ -18,7 +18,7 @@ I'm a biomedical researcher and want to share some ideas and some new concepts h
 
 **Acknowlegment**
 
-Thanks to Yihui Xie, who creates blogdown package and HUGO XMin theme.Githua and netlify make web pulisher easier and simpler
+Thanks to Yihui Xie, who creates blogdown package and HUGO XMin theme.Github and netlify make web pulisher easier and simpler
 
 
 
