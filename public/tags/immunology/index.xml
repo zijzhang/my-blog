@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunology on Just for your understanding</title>
+    <link>/tags/immunology/</link>
+    <description>Recent content in Immunology on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/immunology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is the difference between macrophage and dendritic cell</title>
+      <link>/post/2018/08/03/what-is-the-difference-between-macrophage-and-dendritic-cell/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/08/03/what-is-the-difference-between-macrophage-and-dendritic-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transplatation Immnunology</title>
+      <link>/post/2018/07/31/transplatation-immnunology/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/31/transplatation-immnunology/</guid>
+      <description>Background Why I started to read transplatation immnunology?
+Here I recommended immunopaedia, which is supported by International Union of Immnunological Societies。
+First,
+Second,</description>
+    </item>
+    
+  </channel>
+</rss>

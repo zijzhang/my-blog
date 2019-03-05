@@ -11,42 +11,44 @@ tags:
 
 America is the fourth biggest wine country in the world just after France, Italy and Spain. It has a long history and rich culture of wine
  
-Oregon and California
+The main areas are Oregon and California.
 
+Below are the names of grapes used to brew the wine.
  
-# Pinot Noirc 黑皮诺
+## Pinot Noirc 黑皮诺
 
-# Pinot Girls 灰皮诺
+## Pinot Girls 灰皮诺
 
-# Cabernet sauvigon 赤霞珠
+## Cabernet sauvigon 赤霞珠
 
-# Merlot 梅洛
+## Merlot 梅洛
 
-# Rhone Vally 罗纳河谷
+## Rhone Vally 罗纳河谷
 
-# Syrah 西拉
+## Syrah 西拉
 
-# Grenache 歌海娜
+## Grenache 歌海娜
 
-# Petit Verdot 味儿多
+## Petit Verdot 味儿多
 
-# Petite Sirah 小西拉
-# Mourvedre 慕合怀特
+## Petite Sirah 小西拉
 
-# Chardonnay 霞多丽
+## Mourvedre 慕合怀特
 
-# Tempranillo 丹魄
+## Chardonnay 霞多丽
 
-# Zinfandel 仙粉黛
+## Tempranillo 丹魄
 
-# Sauvigon Blanc 长相思
+## Zinfandel 仙粉黛
 
-# Riesling 雷司令
+## Sauvigon Blanc 长相思
 
-# Cabernet Franc p品丽珠
+## Riesling 雷司令
 
-# Montepulciano 蒙特布查诺
+## Cabernet Franc p品丽珠
 
-# Sangiovese 桑娇维塞
+## Montepulciano 蒙特布查诺
 
-# Barbera 巴贝拉
+## Sangiovese 桑娇维塞
+
+## Barbera 巴贝拉
