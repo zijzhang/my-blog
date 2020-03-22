@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Just for your understanding</title>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/12/01/visting-doctor-english-sentences/</guid>
-      <description>1) 一般病情:
-He feels headache, nausea and vomiting. (他觉得头痛、恶心和想吐。)
+      <description>一般病情:  He feels headache, nausea and vomiting. (他觉得头痛、恶心和想吐。)
 He is under the weather. (他不舒服，生病了。)
 He began to feel unusually tired. (他感到反常的疲倦。)
 He feels light-headed. (他觉得头晕。)
@@ -99,7 +98,7 @@ Second,</description>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/28/wine-catagory-in-walmart/</guid>
-      <description> America is the fourth biggest wine country in the world just after France, Italy and Spain. It has a long history and rich culture of wine
+      <description>America is the fourth biggest wine country in the world just after France, Italy and Spain. It has a long history and rich culture of wine
 The main areas are Oregon and California.
 Below are the names of grapes used to brew the wine.
 Pinot Noirc 黑皮诺 Pinot Girls 灰皮诺 Cabernet sauvigon 赤霞珠 Merlot 梅洛 Rhone Vally 罗纳河谷 Syrah 西拉 Grenache 歌海娜 Petit Verdot 味儿多 Petite Sirah 小西拉 Mourvedre 慕合怀特 Chardonnay 霞多丽 Tempranillo 丹魄 Zinfandel 仙粉黛 Sauvigon Blanc 长相思 Riesling 雷司令 Cabernet Franc p品丽珠 Montepulciano 蒙特布查诺 Sangiovese 桑娇维塞 Barbera 巴贝拉 </description>
@@ -111,7 +110,7 @@ Pinot Noirc 黑皮诺 Pinot Girls 灰皮诺 Cabernet sauvigon 赤霞珠 Merlot �
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/27/microscope-usage/</guid>
-      <description>background Lots of slides were stained by immunohistochemisty, but i can not get good pictures. Today I recognized my misusage of microscope with my supervisor&amp;rsquo;s help.
+      <description>background Lots of slides were stained by immunohistochemisty, but i can not get good pictures. Today I recognized my misusage of microscope with my supervisor&#39;s help.
 How should I take picutres withe microscope to get clear result? For the immunohistochemisty staining with DAB and couterstaining with hematoxilin.
 At the beginning, I tried the bright field with Ph1 and it was wrong. The picutures were very urgly and seemed not like the real condition.</description>
     </item>
@@ -132,8 +131,20 @@ Here, &amp;ldquo;XX&amp;rdquo; can be any chemical from nature product or synthe
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/21/the-index-to-evaluate-gene-expression-in-rna-seq/</guid>
-      <description> Backgroud One commen quesion is wether one certain gene is expresed in one cell line or tissue or organ in human or mouse. for wet lab, qPCR or antibody-based assays can be performed with commercial antibodies. if no antibody is available, How should we do and this data is indispensable.
+      <description>Backgroud One commen quesion is wether one certain gene is expresed in one cell line or tissue or organ in human or mouse. for wet lab, qPCR or antibody-based assays can be performed with commercial antibodies. if no antibody is available, How should we do and this data is indispensable.
 Database will help you </description>
+    </item>
+    
+    <item>
+      <title>flow cytometry data analysis</title>
+      <link>/post/2018/07/15/flow-cytometry-data-analysis/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/15/flow-cytometry-data-analysis/</guid>
+      <description>What is flow cytometry?
+Why is flow cytometry data important?
+How to analyze the flow cytometry data?
+Analyze the data with machine learning method?</description>
     </item>
     
     <item>
@@ -159,18 +170,6 @@ According to modern biological perspective, genome mutation results in the cell 
     </item>
     
     <item>
-      <title>flow cytometry data analysis</title>
-      <link>/post/2018/07/15/flow-cytometry-data-analysis/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/07/15/flow-cytometry-data-analysis/</guid>
-      <description>What is flow cytometry?
-Why is flow cytometry data important?
-How to analyze the flow cytometry data?
-Analyze the data with machine learning method?</description>
-    </item>
-    
-    <item>
       <title>中文测试</title>
       <link>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
@@ -185,9 +184,9 @@ Analyze the data with machine learning method?</description>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/03/neuro-oncology/</guid>
-      <description>Neuro Oncology It is the officical journal of the Society for Neuro-Oncology and published monthly from Jan.2010.
-Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, including glioma and meningioma. His valuable contribution to brain tumor is (1) (2) Reference:
- </description>
+      <description>Neuro OncologyIt is the officical journal of the Society for Neuro-Oncology and published monthly from Jan.2010.
+Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, including glioma and meningioma. His valuable contribution to brain tumor is(1)(2)Reference:
+</description>
     </item>
     
     <item>

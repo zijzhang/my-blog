@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogdown on Just for your understanding</title>
+    <title>blogdown on Just for your understanding</title>
     <link>/tags/blogdown/</link>
-    <description>Recent content in Blogdown on Just for your understanding</description>
+    <description>Recent content in blogdown on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>

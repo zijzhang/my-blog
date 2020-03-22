@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Just for your understanding</title>
@@ -17,20 +17,8 @@
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/21/the-index-to-evaluate-gene-expression-in-rna-seq/</guid>
-      <description> Backgroud One commen quesion is wether one certain gene is expresed in one cell line or tissue or organ in human or mouse. for wet lab, qPCR or antibody-based assays can be performed with commercial antibodies. if no antibody is available, How should we do and this data is indispensable.
+      <description>Backgroud One commen quesion is wether one certain gene is expresed in one cell line or tissue or organ in human or mouse. for wet lab, qPCR or antibody-based assays can be performed with commercial antibodies. if no antibody is available, How should we do and this data is indispensable.
 Database will help you </description>
-    </item>
-    
-    <item>
-      <title>Rtsne </title>
-      <link>/post/2018/07/15/rtsne/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/07/15/rtsne/</guid>
-      <description>Why we need tSNE?
-What is tSNE?
-How to do tSNE
-What is Rtsne?</description>
     </item>
     
     <item>
@@ -43,6 +31,18 @@ What is Rtsne?</description>
 Why is flow cytometry data important?
 How to analyze the flow cytometry data?
 Analyze the data with machine learning method?</description>
+    </item>
+    
+    <item>
+      <title>Rtsne </title>
+      <link>/post/2018/07/15/rtsne/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/07/15/rtsne/</guid>
+      <description>Why we need tSNE?
+What is tSNE?
+How to do tSNE
+What is Rtsne?</description>
     </item>
     
     <item>

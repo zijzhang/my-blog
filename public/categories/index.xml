@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Just for your understanding</title>
@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Science</title>
+      <link>/categories/science/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Living in USA</title>
       <link>/categories/living-in-usa/</link>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
@@ -35,15 +44,6 @@
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>/categories/science/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/science/</guid>
       <description></description>
     </item>
     
