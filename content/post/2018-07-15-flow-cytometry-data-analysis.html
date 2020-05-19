@@ -10,7 +10,46 @@ tags: []
 
 
 
-<p>What is flow cytometry?</p>
-<p>Why is flow cytometry data important?</p>
-<p>How to analyze the flow cytometry data?</p>
-<p>Analyze the data with machine learning method?</p>
+<div id="what-is-flow-cytometry" class="section level1">
+<h1>What is flow cytometry?</h1>
+<blockquote>
+<p>Flow cytometry is a widely used method for analyzing the expression of cell surface and intracellular molecules, characterizing and defining different cell types in a heterogeneous cell population, assessing the purity of isolated subpopulations and analyzing cell size and volume. It allows simultaneous multi-parameter analysis of single cells.</p>
+</blockquote>
+</div>
+<div id="why-is-flow-cytometry-data-important" class="section level1">
+<h1>Why is flow cytometry data important?</h1>
+<blockquote>
+<p>It is predominantly used to measure fluorescence intensity produced by fluorescent-labeled antibodies detecting proteins, or ligands that bind to specific cell-associated molecules such as propidium iodide binding to DNA.</p>
+</blockquote>
+<blockquote>
+<p>The staining procedure involves making a single-cell suspension from cell culture or tissue samples. The cells are then incubated in tubes or microtiter plates with unlabeled or fluorochrome-labeled antibodies and analyzed on the flow cytometer.</p>
+</blockquote>
+</div>
+<div id="how-to-analyze-the-flow-cytometry-data" class="section level1">
+<h1>How to analyze the flow cytometry data?</h1>
+<blockquote>
+<ol style="list-style-type: decimal">
+<li>Data pre‐processing</li>
+</ol>
+<ul>
+<li>Compensation</li>
+<li>Quality assessment</li>
+<li>Normalization</li>
+<li>Transformation</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
+<li>Cell population identification</li>
+<li>Cross‐samples comparison (population mapping or matching).</li>
+<li>Features extraction</li>
+<li>Interpretation (discovery or diagnosis)</li>
+<li>Visualization</li>
+</ol>
+</blockquote>
+</div>
+<div id="analyze-the-data-with-machine-learning-method" class="section level1">
+<h1>Analyze the data with machine learning method?</h1>
+<blockquote>
+<p>This thesis concerns the problem of automatic flow cytometry data analysis. Flow cytometry is a technique for rapid cell analysis and widely used in many biomedical and clinical laboratories. Quantitative measurements from a flow cytometer provide rich information about various physical and chemical characteristics of a large number of cells. In clinical applications, flow cytometry data is visualized on a sequence of two-dimensional scatter plots and analyzed through a manual process called “gating”. This conventional analysis process requires a large amount of time and labor and is highly subjective and inefficient. In this thesis, we present novel machine learning methods for flow cytometry data analysis to address these issues. We first begin by a method for generating a high dimensional flow cytometry dataset from multiple low dimensional datasets. We present an imputation algorithm based on clustering and show that it improves upon a simple nearest neighbor based approach that often induces spurious clusters in the imputed data. This technique enables the analysis of multi-dimensional flow cytometry data beyond the fundamental measurement limits of instruments. We then present two machine learning methods for automatic gating problems. Gating is a process of identifying interesting subsets of cell populations. Pathologists make clinical decisions by inspecting the results from gating. Unfortunately, this process is performed manually in most clinical settings and poses many challenges in high-throughput analysis. The first approach is an unsupervised learning technique based on multivariate mixture models. Since measurements from a flow cytometer are often censored and truncated, standard model-fitting algorithms can cause biases and lead to poor gating results. We propose novel algorithms for fitting multivariate Gaussian mixture models to data that is truncated, censored, or truncated and censored. Our second approach is a transfer learning technique combined with the low-density separation principle. Unlike conventional unsupervised learning approaches, this method can leverage existing datasets previously gated by domain experts to automatically gate a new flow cytometry data. Moreover, the proposed algorithm can adaptively account for biological variations in multiple datasets. We demonstrate these techniques on clinical flow cytometry data and evaluate their effectiveness.
+<a href="https://deepblue.lib.umich.edu/handle/2027.42/89818">link</a></p>
+</blockquote>
+</div>

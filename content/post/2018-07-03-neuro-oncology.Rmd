@@ -11,7 +11,18 @@ tags:
 # Neuro Oncology
 It is the officical journal of the Society for Neuro-Oncology and published monthly from Jan.2010.
 
-Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, including glioma and meningioma. His valuable contribution to brain tumor is 
-(1)
-(2)
-Reference:
+>The current impact factor is 10.091 and 5-year impact factor is 9.053
+
+# About the editor
+
+>Kenneth Aldape is the interim editor-in-chief. His research area is genomic and epigenomic alterations in brain tumors, >including glioma and meningioma. We characterize the biology of specific genomic alterations and how they contribute to >the molecular pathogenesis and treatment resistance of aggressive brain tumors.  We also utilize genomic signatures >with a goal of identifying clinically relevant subclasses.  Our hypothesis is that biologically-based classification of >brain tumors will lead to a greater understanding of why specific tumor subtypes may be more or less sensitive to >therapeutics.
+
+>Dr. Aldape is a diagnostic and molecular neuropathologist who focusses on genomics and molecular pathogenesis of primary brain tumors.  He studies the biology of specific alterations in brain tumors, including the CIC tumor suppressor gene.   As a diagnostic pathologist, he works on the integration of new genomic and computational approaches to improve how cancer can be classified and treated.  The future of cancer classification and treatment decisions will increasingly integrate these tools into clinical practice, and his vision is to contribute to this new paradigm in pathology. Previously, Dr. Aldape has held faculty positions at the University of California, San Francisco, MD Anderson Cancer Center and Princess Margaret Cancer Centre. 
+
+# Teams
+>Executive Editors
+>
+>* Patrick Y. Wen, SNO
+>* Riccardo Soffietti, EANO
+>* Ryo Nishikawa, JSNO
+

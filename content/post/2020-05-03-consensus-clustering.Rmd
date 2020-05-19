@@ -1,0 +1,68 @@
+---
+title: ' Consensus Clustering'
+author: Zijian
+date: '2020-05-03'
+slug: consensus-clustering
+categories:
+  - bioinformatics
+tags:
+  - Education
+  - Tutorial
+---
+# Consensus clustering
+
+Consensus Clustering  is a method that provides quantitative evidence for determining the number and membership of possible clusters within a dataset, such as microarray gene expression.This method has gained popularity in cancer genomics, where new molecular subclasses of disease have been discovered.
+
+# The Consensus Clustering method 
+
+it involves subsampling from a set of items,
+such as microarrays, and determines clusterings of specified cluster counts (k).
+Then, pairwise consensus values, the proportion that two items occupied the
+same cluster out of the number of times they occurred in the same subsample,
+are calculated and stored in a symmetrical consensus matrix for each k
+
+# Code
+```{r message=FALSE}
+library(ALL)
+data(ALL)
+d=exprs(ALL)
+d[1:5,1:5]
+```
+
+
+```{r}
+#筛选前5000标准差的基因
+mads=apply(d,1,mad)
+d=d[rev(order(mads))[1:5000],]
+```
+
+
+```{r}
+#sweep函数减去中位数进行标准化
+d = sweep(d,1, apply(d,1,median,na.rm=T))
+```
+
+
+```{r}
+#一步完成聚类
+library(ConsensusClusterPlus)
+title=tempdir()
+results = ConsensusClusterPlus(d,maxK=6,reps=50,pItem=0.8,pFeature=1, title=title,clusterAlg="hc",distance="pearson",seed=1262118388.71279,plot="png")
+
+#consensusMatrix - the consensus matrix.
+# #For .example, the top five rows and columns of results for k=2:
+results[[2]][["consensusMatrix"]][1:5,1:5]
+```
+```{r}
+results[[2]][["consensusTree"]]
+```
+
+```{r}
+results[[2]][["consensusClass"]][1:5]
+```
+
+```{r}
+icl <- calcICL(results, title = title,plot = "png")
+icl[["clusterConsensus"]]
+```
+

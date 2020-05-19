@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dairy on Just for your understanding</title>
+    <link>/tags/dairy/</link>
+    <description>Recent content in dairy on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dairy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Z-alpha domain </title>
+      <link>/post/2020/04/29/z-alpha-domain/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/29/z-alpha-domain/</guid>
+      <description>Za bind with Z-DNA as well as RNA  Brown BA 2nd, Lowenhaupt K, Wilbert CM, Hanlon EB, Rich A. The zalpha domain of the editing enzyme dsRNA adenosine deaminase binds left-handed Z-RNA as well as Z-DNA. Proc Natl Acad Sci U S A. 2000;97(25):13532‐13536. doi:10.1073/pnas.240464097
+ </description>
+    </item>
+    
+    <item>
+      <title>News 04052020</title>
+      <link>/post/2020/04/05/04052020/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/05/04052020/</guid>
+      <description>google adsense review 结果很伤人 前几天尝试一下申请google adsense，把代码加入到我的blog中，让google 来进行审查。今天终于结果出来， Valuable inventory: no content。开始没有看懂是什么结果，后来查证后，其实就是你的website 有用的page基本没有。 我没法收录你的page，你还用什么google AdSense，继续努力吧。
+今天开始每天一篇日记，夹杂写一些英文的代码类文章，努力提高原创文章的数量。当初被hugo吸引，静态网站生成器，看了Yihui Xie 做的blogdown + github + netlify,三下五除二做了这么一个网页，就放在那里。
+疫情期间，放假在家，又开始学习用R提取数据并作图，接着又把这个网站的项目拾起来了
+加油，写完那些没有完成的blog 翻了翻以前的blog，好惭愧。有些只有title，没有内容。不知道那时候的自己在想什么。 难怪goodle adsense 没有通过你的申请。你这是个有模有样的网站吗，显然不是。
+认识到自己的错了吗？知道了就要改正！！！
+还可以谢谢小朋友的故事 突然想到了这个话题，这个小朋友处在语言发育期和准备独立成长的时期，每天都有新的事情发生，有趣的事情发生，写下来。</description>
+    </item>
+    
+  </channel>
+</rss>

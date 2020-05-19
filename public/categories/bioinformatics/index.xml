@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioinformatics on Just for your understanding</title>
+    <link>/categories/bioinformatics/</link>
+    <description>Recent content in bioinformatics on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Consensus Clustering</title>
+      <link>/post/2020/05/03/consensus-clustering/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/03/consensus-clustering/</guid>
+      <description>Consensus clusteringConsensus Clustering is a method that provides quantitative evidence for determining the number and membership of possible clusters within a dataset, such as microarray gene expression.This method has gained popularity in cancer genomics, where new molecular subclasses of disease have been discovered.
+The Consensus Clustering methodit involves subsampling from a set of items,such as microarrays, and determines clusterings of specified cluster counts (k).Then, pairwise consensus values, the proportion that two items occupied thesame cluster out of the number of times they occurred in the same subsample,are calculated and stored in a symmetrical consensus matrix for each k</description>
+    </item>
+    
+    <item>
+      <title>CNV  Terms</title>
+      <link>/post/2020/05/03/cnv-terms/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/03/cnv-terms/</guid>
+      <description>Allele An allele is one of a series of alternative forms (genotypes) at locus, or a specific region of a chromosome. At the DNA level, different alleles have different base sequences.
+Allelic fraction The allelic fraction can be defined as the number of times a mutated base is observed, divided by the total number of times any base is observed at the locus.
+Allelic fraction is generally applied to a single mutation in a tumor, and thus is distinct from allelic frequency, which examines the frequency of an allele in a population</description>
+    </item>
+    
+  </channel>
+</rss>

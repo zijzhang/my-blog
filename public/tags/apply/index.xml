@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apply on Just for your understanding</title>
+    <link>/tags/apply/</link>
+    <description>Recent content in apply on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/apply/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R apply function</title>
+      <link>/post/2020/05/01/r-apply-function/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/01/r-apply-function/</guid>
+      <description>apply() takes Data frame or matrix as an input and gives output in vector, list or array. apply() Function is primarily used to avoid explicit uses of loop constructs. It is the most basic of all collections can be used over a matrice.
+This function takes 3 arguments:
+apply(X, MARGIN, FUN)
+Here:
+-x: an array or matrix
+-MARGIN: take a value or range between 1 and 2 to define where to apply the function:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single cell, RNA seq on Just for your understanding</title>
+    <link>/tags/single-cell-rna-seq/</link>
+    <description>Recent content in Single cell, RNA seq on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/single-cell-rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benchmarking single-cell RNA-sequencing protocols for cell atlas projects</title>
+      <link>/post/2020/04/10/benchmarking-single-cell-rna-sequencing-protocols-for-cell-atlas-projects/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/10/benchmarking-single-cell-rna-sequencing-protocols-for-cell-atlas-projects/</guid>
+      <description>TitleBenchmarking single-cell RNA-sequencing protocols for cell atlas projects
+CitationMereu, E., Lafzi, A., Moutinho, C. et al. Benchmarking single-cell RNA-sequencing protocols for cell atlas projects. Nat Biotechnol (2020). https://doi.org/10.1038/s41587-020-0469-4
+AbtractSingle-cell RNA sequencing (scRNA-seq) is the leading technique for characterizing the transcriptomes of individual cells in a sample. The latest protocols are scalable to thousands of cells and are being used to compile cell atlases of tissues, organs and organisms.</description>
+    </item>
+    
+  </channel>
+</rss>

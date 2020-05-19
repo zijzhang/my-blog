@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grant on Just for your understanding</title>
+    <link>/categories/grant/</link>
+    <description>Recent content in grant on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/grant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research Approach Template</title>
+      <link>/post/2020/04/03/research-approach-template/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/03/research-approach-template/</guid>
+      <description>Approach Template: R01
+&amp;lt;1-2 sentences&amp;gt;“Specific Aim 1: To &amp;hellip;” List your first Specific Aim. This is a major heading so Boldit. Copy exactly from the Specific Aims page.
+&amp;lt;1-2 paragraphs&amp;gt; Begin by reiterating the premise behind this specific aim (Rationale). Brieflyremind your reviewers what you are studying, reiterate your hypothesis, thesignificance, and what you hope to achieve.
+&amp;lt;1-2 paragraphs&amp;gt; Briefly describe any background necessary to understand the context of theSpecific Aim.</description>
+    </item>
+    
+  </channel>
+</rss>

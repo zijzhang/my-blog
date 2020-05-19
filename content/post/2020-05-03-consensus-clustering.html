@@ -1,0 +1,96 @@
+---
+title: ' Consensus Clustering'
+author: Zijian
+date: '2020-05-03'
+slug: consensus-clustering
+categories:
+  - bioinformatics
+tags:
+  - Education
+  - Tutorial
+---
+
+
+
+<div id="consensus-clustering" class="section level1">
+<h1>Consensus clustering</h1>
+<p>Consensus Clustering is a method that provides quantitative evidence for determining the number and membership of possible clusters within a dataset, such as microarray gene expression.This method has gained popularity in cancer genomics, where new molecular subclasses of disease have been discovered.</p>
+</div>
+<div id="the-consensus-clustering-method" class="section level1">
+<h1>The Consensus Clustering method</h1>
+<p>it involves subsampling from a set of items,
+such as microarrays, and determines clusterings of specified cluster counts (k).
+Then, pairwise consensus values, the proportion that two items occupied the
+same cluster out of the number of times they occurred in the same subsample,
+are calculated and stored in a symmetrical consensus matrix for each k</p>
+</div>
+<div id="code" class="section level1">
+<h1>Code</h1>
+<pre class="r"><code>library(ALL)
+data(ALL)
+d=exprs(ALL)
+d[1:5,1:5]</code></pre>
+<pre><code>##              01005    01010    03002    04006    04007
+## 1000_at   7.597323 7.479445 7.567593 7.384684 7.905312
+## 1001_at   5.046194 4.932537 4.799294 4.922627 4.844565
+## 1002_f_at 3.900466 4.208155 3.886169 4.206798 3.416923
+## 1003_s_at 5.903856 6.169024 5.860459 6.116890 5.687997
+## 1004_at   5.925260 5.912780 5.893209 6.170245 5.615210</code></pre>
+<pre class="r"><code>#筛选前5000标准差的基因
+mads=apply(d,1,mad)
+d=d[rev(order(mads))[1:5000],]</code></pre>
+<pre class="r"><code>#sweep函数减去中位数进行标准化
+d = sweep(d,1, apply(d,1,median,na.rm=T))</code></pre>
+<pre class="r"><code>#一步完成聚类
+library(ConsensusClusterPlus)
+title=tempdir()
+results = ConsensusClusterPlus(d,maxK=6,reps=50,pItem=0.8,pFeature=1, title=title,clusterAlg=&quot;hc&quot;,distance=&quot;pearson&quot;,seed=1262118388.71279,plot=&quot;png&quot;)</code></pre>
+<pre><code>## end fraction</code></pre>
+<pre><code>## clustered
+## clustered
+## clustered
+## clustered
+## clustered</code></pre>
+<pre class="r"><code>#consensusMatrix - the consensus matrix.
+# #For .example, the top five rows and columns of results for k=2:
+results[[2]][[&quot;consensusMatrix&quot;]][1:5,1:5]</code></pre>
+<pre><code>##           [,1]      [,2]      [,3]      [,4]     [,5]
+## [1,] 1.0000000 1.0000000 0.8947368 1.0000000 1.000000
+## [2,] 1.0000000 1.0000000 0.9142857 1.0000000 1.000000
+## [3,] 0.8947368 0.9142857 1.0000000 0.8857143 0.969697
+## [4,] 1.0000000 1.0000000 0.8857143 1.0000000 1.000000
+## [5,] 1.0000000 1.0000000 0.9696970 1.0000000 1.000000</code></pre>
+<pre class="r"><code>results[[2]][[&quot;consensusTree&quot;]]</code></pre>
+<pre><code>## 
+## Call:
+## hclust(d = as.dist(1 - fm), method = finalLinkage)
+## 
+## Cluster method   : average 
+## Number of objects: 128</code></pre>
+<pre class="r"><code>results[[2]][[&quot;consensusClass&quot;]][1:5]</code></pre>
+<pre><code>## 01005 01010 03002 04006 04007 
+##     1     1     1     1     1</code></pre>
+<pre class="r"><code>icl &lt;- calcICL(results, title = title,plot = &quot;png&quot;)
+icl[[&quot;clusterConsensus&quot;]]</code></pre>
+<pre><code>##       k cluster clusterConsensus
+##  [1,] 2       1        0.7681668
+##  [2,] 2       2        0.9788274
+##  [3,] 3       1        0.6176820
+##  [4,] 3       2        0.9190744
+##  [5,] 3       3        1.0000000
+##  [6,] 4       1        0.8446083
+##  [7,] 4       2        0.9067267
+##  [8,] 4       3        0.6612850
+##  [9,] 4       4        1.0000000
+## [10,] 5       1        0.8175802
+## [11,] 5       2        0.9066489
+## [12,] 5       3        0.6062040
+## [13,] 5       4        0.8154580
+## [14,] 5       5        1.0000000
+## [15,] 6       1        0.7511726
+## [16,] 6       2        0.8802040
+## [17,] 6       3        0.7410730
+## [18,] 6       4        0.8154580
+## [19,] 6       5        0.7390864
+## [20,] 6       6        1.0000000</code></pre>
+</div>

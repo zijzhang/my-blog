@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>review on Just for your understanding</title>
+    <link>/tags/review/</link>
+    <description>Recent content in review on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design and analysis of CRISPR–Cas experiments</title>
+      <link>/post/2020/05/08/design-and-analysis-of-crispr-cas-experiments/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/08/design-and-analysis-of-crispr-cas-experiments/</guid>
+      <description>citation Hanna, R.E., Doench, J.G. Design and analysis of CRISPR–Cas experiments. Nat Biotechnol (2020). https://doi.org/10.1038/s41587-020-0490-7
+Abstract A large and ever-expanding set of CRISPR-Cas systems now enables the rapid and flexible manipulation of genomes in both targeted and large-scale experiments. Numerous software tools and analytical methods have been developed for the design and analysis of CRISPR-Cas experiments, including resources to design optimal guide RNAs for various modes of manipulation and to analyze the results of such experiments.</description>
+    </item>
+    
+    <item>
+      <title>Z-DNA and human disease</title>
+      <link>/post/2020/04/29/z-dna-and-human-disease/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/29/z-dna-and-human-disease/</guid>
+      <description>Basic knowledge of Z-DNA  Z-DNA is an instable and high energy DNA conformation. In vivo, it requires Za binding protein to maitain the Z-conformation. It was first found in vitro. In vivo, when RNA plolymerase is moving on DNA template, transcription will result in negative supercoiling behind the polymerase, thus facilitating Z-DNA conformation at persmissive regions. In vitro d(GC)n is easy to form Z-DNA, while in vivo, only sepecific sequences can do that.</description>
+    </item>
+    
+    <item>
+      <title>The Scientist-2019 Top 10 Innovations</title>
+      <link>/post/2020/04/23/the-scientist-2019-top-10-innovations/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/23/the-scientist-2019-top-10-innovations/</guid>
+      <description>This year has proven to be a great one for the life sciences, and the 2010s have been an exciting decade. Here, The Scientist presents the fine-tuned tweaks and brand-new technologies that make up our Top 10 Innovations for 2019.
+Refeyn Refeyn One  In 2018, Philipp Kukura at the University of Oxford and his colleagues announced a technology they had developed, called mass photometry, that measures the weight of single molecules by the way they scatter light.</description>
+    </item>
+    
+  </channel>
+</rss>

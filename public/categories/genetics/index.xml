@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetics on Just for your understanding</title>
+    <link>/categories/genetics/</link>
+    <description>Recent content in Genetics on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/genetics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mismatch repair</title>
+      <link>/post/2020/05/17/mismatch-repair/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/17/mismatch-repair/</guid>
+      <description>Mutator A mutation or a mutated gene that increases the basal level of mutation. Such genes often code for proteins that are involved in repairing damaged DNA.A mutator mutant has an increased frequency of spontaneous mutation.
+Mut genes Functions in this group include the Dam methylase that identifies the target for repair and enzymes that participate directly or indirectly in the removal of particular types of damage (MutH, -S, -L, and -Y).</description>
+    </item>
+    
+    <item>
+      <title>Base Excision Repair</title>
+      <link>/post/2020/05/16/base-excision-repair/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/16/base-excision-repair/</guid>
+      <description>Glycosylases and lyases. Enzymes that remove bases from DNA
+Long-patch pathway Glycosylase action is followed by the endonuclease APE1, which cleaves the polynucleotide chain on the 5′ side. This, in turn, attracts a replication complex that includes DNA polymerase δ/ε and ancillary components. The replication complex performs a short synthesis reaction extending for 2 to 10 nucleotides. The displaced material is removed by the flap endonuclease (FEN1). The enzyme ligase 1 seals the chain.</description>
+    </item>
+    
+    <item>
+      <title>Error-Prone Repair and Translesion Synthesis</title>
+      <link>/post/2020/05/16/error-prone-repair-and-translesion-synthesis/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/16/error-prone-repair-and-translesion-synthesis/</guid>
+      <description>Damaged DNA that has not been repaired causes prokaryotic DNA polymerase III to stall during replication
+  DNA polymerase V (encoded by umuCD) or DNA polymerase IV (encoded by dinB) can synthesize a complement to the damaged strand.
+  The DNA synthesized by repair DNA polymerases often has errors in its sequence
+  most systems, including uvr-controlled excision repair, do not differ significantly from DNA replication in the frequency of mistakes</description>
+    </item>
+    
+    <item>
+      <title>DNA repair</title>
+      <link>/post/2020/05/13/dna-repair/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/13/dna-repair/</guid>
+      <description>Concept The measured rate of mutation reflects a balance between the number of damaging events occurring in DNA and the number that have been corrected.
+The response to damage includes activation and recruitment of repair enzymes; modification of chromatin structure; activation of cell cycle checkpoints; and, in the event of insufficient repair in multicellular organisms, apoptosis
+Three type damage  single-base changes : deamination of cytosine to uracil structural distortions/bulky lesions, strand breaks  Direct repair One good example is photoreactivation of pyrimidine dimers</description>
+    </item>
+    
+    <item>
+      <title>Z-alpha domain </title>
+      <link>/post/2020/04/29/z-alpha-domain/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/29/z-alpha-domain/</guid>
+      <description>Za bind with Z-DNA as well as RNA  Brown BA 2nd, Lowenhaupt K, Wilbert CM, Hanlon EB, Rich A. The zalpha domain of the editing enzyme dsRNA adenosine deaminase binds left-handed Z-RNA as well as Z-DNA. Proc Natl Acad Sci U S A. 2000;97(25):13532‐13536. doi:10.1073/pnas.240464097
+ </description>
+    </item>
+    
+    <item>
+      <title>Z-DNA and human disease</title>
+      <link>/post/2020/04/29/z-dna-and-human-disease/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/29/z-dna-and-human-disease/</guid>
+      <description>Basic knowledge of Z-DNA  Z-DNA is an instable and high energy DNA conformation. In vivo, it requires Za binding protein to maitain the Z-conformation. It was first found in vitro. In vivo, when RNA plolymerase is moving on DNA template, transcription will result in negative supercoiling behind the polymerase, thus facilitating Z-DNA conformation at persmissive regions. In vitro d(GC)n is easy to form Z-DNA, while in vivo, only sepecific sequences can do that.</description>
+    </item>
+    
+    <item>
+      <title>Toposomerase </title>
+      <link>/post/2020/04/19/toposomerase/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/19/toposomerase/</guid>
+      <description>Supercoil   Supercoiling allows for the compact packing of circular DNA
+  Prokaryotes and Eukaryotes usually have negative supercoiled DNA.
+  Negative supercoiling is naturally prevalent because negative supercoiling prepares the molecule for processes that require separation of the DNA strands
+  RNA polymerase also influence DNA strand to have two different supercoiled directions. The region RNA polymerase has passed forms negative supercoil while the region RNA polymerase that have not passed forms positive supercoil.</description>
+    </item>
+    
+    <item>
+      <title>Transponse element-Alu</title>
+      <link>/post/2020/04/19/transponse-element-alu/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/19/transponse-element-alu/</guid>
+      <description>Functions and Utility of Alu Jumping Genes
+Alu they are the most abundant type of human TE, making up an amazing 10% of the (diploid) human genome. Thus, in a mere 65 million years, these transposons have gone from zero to about 1 million copies per cell! Indeed, part of what makes Alu elements so important is that they are found in nearly every human (and other primate) gene. These elements are spread throughout the genome and occur at varying densities in different loci.</description>
+    </item>
+    
+    <item>
+      <title>Z-DNA and Z-RNA in human disease</title>
+      <link>/post/2020/04/18/z-dna-and-z-rna-in-human-disease/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/18/z-dna-and-z-rna-in-human-disease/</guid>
+      <description>It is from one review from
+ Herbert A. Z-DNA and Z-RNA in human disease. Commun Biol. 2019;2:7. Published 2019 Jan 7. doi:10.1038/s42003-018-0237-x
+ Aicardi-Goutières Syndrome  Aicardi-Goutieres syndrome (AGS) is an inherited encephalopathy that affects newborn infants and usually results in severe mental and physical handicap Loss-of-function mutations in ADAR p150 allow persistent activation of the interferon system by Alu dsRNAs and are causal for Aicardi-Goutières Syndrome
+ ADAR   An important inflection point has been the identification of the Z-DNA binding domain named Zα from the dsRNA editing protein ADAR</description>
+    </item>
+    
+    <item>
+      <title>Transposons: The Jumping Genes</title>
+      <link>/post/2020/04/17/transposons-the-jumping-genes/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/17/transposons-the-jumping-genes/</guid>
+      <description>Transposable elements, or &amp;ldquo;jumping genes&amp;rdquo;, were first identified by Barbara McClintock more than 50 years ago. Why are transposons so common in eukaryotes, and exactly what do they do?
+ Transposable elements (TEs)make up approximately 50% of the human genome and up to 90% of the maize genome
+  class 1 TEs (Retrotransposons) and class 2 TEs (DNA Transposons)
+ DNA Transposons  All complete or &amp;ldquo;autonomous&amp;rdquo; class 2 TEs encode the protein transposase, which they require for insertion and excision Class 2 TEs are characterized by the presence of terminal inverted repeats.</description>
+    </item>
+    
+    <item>
+      <title>Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation</title>
+      <link>/post/2020/04/09/z-nucleic-acid-sensing-triggers-zbp1-dependent-necroptosis-and-inflammation/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/09/z-nucleic-acid-sensing-triggers-zbp1-dependent-necroptosis-and-inflammation/</guid>
+      <description>TitleZ-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation
+CitationJiao, H., Wachsmuth, L., Kumari, S. et al. Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation. Nature (2020).https://doi.org/10.1038/s41586-020-2129-8
+AbtractThe biological function of Z-DNA and Z-RNA, nucleic acid structures with a left-handed double helix, is poorly understood1,2,3.Z-DNA-binding protein 1 (ZBP1; also known as DAI or DLM-1) is a nucleic acid sensor that contains two Zα domains that bind Z-DNA4,5 and Z-RNA6,7,8.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google adsense on Just for your understanding</title>
+    <link>/tags/google-adsense/</link>
+    <description>Recent content in Google adsense on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/google-adsense/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to add Google Adsense and Analytics to a Hugo website</title>
+      <link>/post/2020/04/02/how-to-add-google-adsense-and-analytics-to-a-hugo-website/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/02/how-to-add-google-adsense-and-analytics-to-a-hugo-website/</guid>
+      <description>HUGO is a great static website generator.
+In this website, the XMIN theme is used.Prepration:
+you have a google account and and login the google adsense.
+Then you will get the script specific for you.
+copy your adsense script.
+insert into the &amp;lt;head&amp;gt; &amp;lt;/head&amp;gt; label of the index of your website.
+when you fnished step 2 and google will auto check you website.if they found your script then you can go to next.</description>
+    </item>
+    
+  </channel>
+</rss>

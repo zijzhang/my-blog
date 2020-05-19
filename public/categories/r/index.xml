@@ -6,10 +6,24 @@
     <description>Recent content in R on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R apply function</title>
+      <link>/post/2020/05/01/r-apply-function/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/01/r-apply-function/</guid>
+      <description>apply() takes Data frame or matrix as an input and gives output in vector, list or array. apply() Function is primarily used to avoid explicit uses of loop constructs. It is the most basic of all collections can be used over a matrice.
+This function takes 3 arguments:
+apply(X, MARGIN, FUN)
+Here:
+-x: an array or matrix
+-MARGIN: take a value or range between 1 and 2 to define where to apply the function:</description>
+    </item>
     
     <item>
       <title>The index to evaluate gene expression in RNA-seq</title>
@@ -18,7 +32,7 @@
       
       <guid>/post/2018/07/21/the-index-to-evaluate-gene-expression-in-rna-seq/</guid>
       <description>Backgroud One commen quesion is wether one certain gene is expresed in one cell line or tissue or organ in human or mouse. for wet lab, qPCR or antibody-based assays can be performed with commercial antibodies. if no antibody is available, How should we do and this data is indispensable.
-Database will help you </description>
+RPKM, FKPM and TPM  RPKM (Reads Per Kilobase Million) or FPKM (Fragments Per Kilobase Million). However, TPM (Transcripts Per Kilobase Million) is now becoming quite popular.</description>
     </item>
     
     <item>
@@ -27,10 +41,8 @@ Database will help you </description>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/15/flow-cytometry-data-analysis/</guid>
-      <description>What is flow cytometry?
-Why is flow cytometry data important?
-How to analyze the flow cytometry data?
-Analyze the data with machine learning method?</description>
+      <description>What is flow cytometry?Flow cytometry is a widely used method for analyzing the expression of cell surface and intracellular molecules, characterizing and defining different cell types in a heterogeneous cell population, assessing the purity of isolated subpopulations and analyzing cell size and volume. It allows simultaneous multi-parameter analysis of single cells.
+Why is flow cytometry data important?It is predominantly used to measure fluorescence intensity produced by fluorescent-labeled antibodies detecting proteins, or ligands that bind to specific cell-associated molecules such as propidium iodide binding to DNA.</description>
     </item>
     
     <item>
@@ -39,18 +51,15 @@ Analyze the data with machine learning method?</description>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/15/rtsne/</guid>
-      <description>Why we need tSNE?
-What is tSNE?
-How to do tSNE
-What is Rtsne?</description>
+      <description>Why we need tSNE?If you have worked with a dataset before with a lot of features, you can fathom how difficult it is to understand or explore the relationships between the features. Not only it makes the EDA process difficult but also affects the machine learning model’s performance since the chances are that you might overfit your model or violate some of the assumptions of the algorithm, like the independence of features in linear regression.</description>
     </item>
     
     <item>
-      <title>中文测试</title>
-      <link>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</link>
+      <title>Writing test in Chinese</title>
+      <link>/post/2018/07/04/writing-test-in-chinese/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/07/04/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</guid>
+      <guid>/post/2018/07/04/writing-test-in-chinese/</guid>
       <description>主页显示正常 markdown 标记正常。 二级页面显示正常。 需要解决的问题： 设置字体，字号以及后续排版</description>
     </item>
     

@@ -1,0 +1,45 @@
+---
+title: How to add Google Adsense and Analytics to a Hugo website
+author: Zijian Zhang
+date: '2020-04-02'
+slug: how-to-add-google-adsense-and-analytics-to-a-hugo-website
+categories:
+  - web development
+tags:
+  - Google adsense
+  - HUGO
+  - Wesite
+---
+
+HUGO is a great static website generator.  
+
+In this website, the XMIN theme is used.
+========================================
+
+Prepration:
+
+you have a google account and and login the google adsense.
+
+Then you will get the script specific for you.
+
+
+1. copy your adsense script.
+
+2. insert into the ``<head> </head>`` label of the index of your website.
+
+3. when you fnished step 2 and google will auto check you website.
+  if they found your script then you can go to next.
+  
+4. google will review your website and it will take several days or weeks.
+
+5. You can login the goodle adsense and check the status
+
+>We've found policy violations on https://zijzhang.netlify.com that are preventing your site from being approved:  
+>Valuable Inventory: No content  
+>As stated in our Program policies, we may not show Google ads on pages or apps with little to no value and/or >excessive advertising until changes are made. This includes hosted ad pages or pages or apps without content.
+
+How to add the script into you HUGO website
+
++ The structure of HUGO website
++ The template folder of XMIN
++ find the postion to put the script

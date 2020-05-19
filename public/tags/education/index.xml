@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Just for your understanding</title>
+    <link>/tags/education/</link>
+    <description>Recent content in Education on Just for your understanding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mismatch repair</title>
+      <link>/post/2020/05/17/mismatch-repair/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/17/mismatch-repair/</guid>
+      <description>Mutator A mutation or a mutated gene that increases the basal level of mutation. Such genes often code for proteins that are involved in repairing damaged DNA.A mutator mutant has an increased frequency of spontaneous mutation.
+Mut genes Functions in this group include the Dam methylase that identifies the target for repair and enzymes that participate directly or indirectly in the removal of particular types of damage (MutH, -S, -L, and -Y).</description>
+    </item>
+    
+    <item>
+      <title>Base Excision Repair</title>
+      <link>/post/2020/05/16/base-excision-repair/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/16/base-excision-repair/</guid>
+      <description>Glycosylases and lyases. Enzymes that remove bases from DNA
+Long-patch pathway Glycosylase action is followed by the endonuclease APE1, which cleaves the polynucleotide chain on the 5′ side. This, in turn, attracts a replication complex that includes DNA polymerase δ/ε and ancillary components. The replication complex performs a short synthesis reaction extending for 2 to 10 nucleotides. The displaced material is removed by the flap endonuclease (FEN1). The enzyme ligase 1 seals the chain.</description>
+    </item>
+    
+    <item>
+      <title>Error-Prone Repair and Translesion Synthesis</title>
+      <link>/post/2020/05/16/error-prone-repair-and-translesion-synthesis/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/16/error-prone-repair-and-translesion-synthesis/</guid>
+      <description>Damaged DNA that has not been repaired causes prokaryotic DNA polymerase III to stall during replication
+  DNA polymerase V (encoded by umuCD) or DNA polymerase IV (encoded by dinB) can synthesize a complement to the damaged strand.
+  The DNA synthesized by repair DNA polymerases often has errors in its sequence
+  most systems, including uvr-controlled excision repair, do not differ significantly from DNA replication in the frequency of mistakes</description>
+    </item>
+    
+    <item>
+      <title>DNA repair</title>
+      <link>/post/2020/05/13/dna-repair/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/13/dna-repair/</guid>
+      <description>Concept The measured rate of mutation reflects a balance between the number of damaging events occurring in DNA and the number that have been corrected.
+The response to damage includes activation and recruitment of repair enzymes; modification of chromatin structure; activation of cell cycle checkpoints; and, in the event of insufficient repair in multicellular organisms, apoptosis
+Three type damage  single-base changes : deamination of cytosine to uracil structural distortions/bulky lesions, strand breaks  Direct repair One good example is photoreactivation of pyrimidine dimers</description>
+    </item>
+    
+    <item>
+      <title>Tetracycline (Tet) Inducible Expression</title>
+      <link>/post/2020/05/13/tetracycline-tet-inducible-expression/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/13/tetracycline-tet-inducible-expression/</guid>
+      <description>Tet Response Element (TRE) A TRE is 7 repeats of a 19 nucleotide tetracycline operator (tetO) sequence, and is recognized by the tetracycline repressor (tetR). In the endogenous bacterial system, if tetracycline, or one of its analogs like doxycycline, are present, tetR will bind to tetracycline and not to the TRE, permitting transcription.
+Tetracycline-dependent promoters are developed by placing a TRE upstream of a minimal promoter.
+Tetracycline Off System ( tTA-dependent system) tTA (tetracycline-controlled transactivator) = tetR+VP16</description>
+    </item>
+    
+    <item>
+      <title>Design and analysis of CRISPR–Cas experiments</title>
+      <link>/post/2020/05/08/design-and-analysis-of-crispr-cas-experiments/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/08/design-and-analysis-of-crispr-cas-experiments/</guid>
+      <description>citation Hanna, R.E., Doench, J.G. Design and analysis of CRISPR–Cas experiments. Nat Biotechnol (2020). https://doi.org/10.1038/s41587-020-0490-7
+Abstract A large and ever-expanding set of CRISPR-Cas systems now enables the rapid and flexible manipulation of genomes in both targeted and large-scale experiments. Numerous software tools and analytical methods have been developed for the design and analysis of CRISPR-Cas experiments, including resources to design optimal guide RNAs for various modes of manipulation and to analyze the results of such experiments.</description>
+    </item>
+    
+    <item>
+      <title>Stemming the tide of drug resistance in cancer</title>
+      <link>/post/2020/05/07/stemming-the-tide-of-drug-resistance-in-cancer/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/07/stemming-the-tide-of-drug-resistance-in-cancer/</guid>
+      <description>This is review from nature reviews drug discovery,written by Asher Mullard.
+Paul Workman, President of The Institute of Cancer Research (ICR)  This is the biggest problem that we face in cancer drug development,There are a whole slew of different mechanisms that contribute to resistance. We need to be creative and think about how to exploit this biology
+ anti-evolution therapy Frederic de Sauvage, a molecular oncologist at Genentech   drugging drug-tolerant persister cells</description>
+    </item>
+    
+    <item>
+      <title> Consensus Clustering</title>
+      <link>/post/2020/05/03/consensus-clustering/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/03/consensus-clustering/</guid>
+      <description>Consensus clusteringConsensus Clustering is a method that provides quantitative evidence for determining the number and membership of possible clusters within a dataset, such as microarray gene expression.This method has gained popularity in cancer genomics, where new molecular subclasses of disease have been discovered.
+The Consensus Clustering methodit involves subsampling from a set of items,such as microarrays, and determines clusterings of specified cluster counts (k).Then, pairwise consensus values, the proportion that two items occupied thesame cluster out of the number of times they occurred in the same subsample,are calculated and stored in a symmetrical consensus matrix for each k</description>
+    </item>
+    
+    <item>
+      <title>CNV  Terms</title>
+      <link>/post/2020/05/03/cnv-terms/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/03/cnv-terms/</guid>
+      <description>Allele An allele is one of a series of alternative forms (genotypes) at locus, or a specific region of a chromosome. At the DNA level, different alleles have different base sequences.
+Allelic fraction The allelic fraction can be defined as the number of times a mutated base is observed, divided by the total number of times any base is observed at the locus.
+Allelic fraction is generally applied to a single mutation in a tumor, and thus is distinct from allelic frequency, which examines the frequency of an allele in a population</description>
+    </item>
+    
+    <item>
+      <title>Z-alpha domain </title>
+      <link>/post/2020/04/29/z-alpha-domain/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/29/z-alpha-domain/</guid>
+      <description>Za bind with Z-DNA as well as RNA  Brown BA 2nd, Lowenhaupt K, Wilbert CM, Hanlon EB, Rich A. The zalpha domain of the editing enzyme dsRNA adenosine deaminase binds left-handed Z-RNA as well as Z-DNA. Proc Natl Acad Sci U S A. 2000;97(25):13532‐13536. doi:10.1073/pnas.240464097
+ </description>
+    </item>
+    
+    <item>
+      <title>Toposomerase </title>
+      <link>/post/2020/04/19/toposomerase/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/19/toposomerase/</guid>
+      <description>Supercoil   Supercoiling allows for the compact packing of circular DNA
+  Prokaryotes and Eukaryotes usually have negative supercoiled DNA.
+  Negative supercoiling is naturally prevalent because negative supercoiling prepares the molecule for processes that require separation of the DNA strands
+  RNA polymerase also influence DNA strand to have two different supercoiled directions. The region RNA polymerase has passed forms negative supercoil while the region RNA polymerase that have not passed forms positive supercoil.</description>
+    </item>
+    
+    <item>
+      <title>Transponse element-Alu</title>
+      <link>/post/2020/04/19/transponse-element-alu/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/19/transponse-element-alu/</guid>
+      <description>Functions and Utility of Alu Jumping Genes
+Alu they are the most abundant type of human TE, making up an amazing 10% of the (diploid) human genome. Thus, in a mere 65 million years, these transposons have gone from zero to about 1 million copies per cell! Indeed, part of what makes Alu elements so important is that they are found in nearly every human (and other primate) gene. These elements are spread throughout the genome and occur at varying densities in different loci.</description>
+    </item>
+    
+    <item>
+      <title>Z-DNA and Z-RNA in human disease</title>
+      <link>/post/2020/04/18/z-dna-and-z-rna-in-human-disease/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/18/z-dna-and-z-rna-in-human-disease/</guid>
+      <description>It is from one review from
+ Herbert A. Z-DNA and Z-RNA in human disease. Commun Biol. 2019;2:7. Published 2019 Jan 7. doi:10.1038/s42003-018-0237-x
+ Aicardi-Goutières Syndrome  Aicardi-Goutieres syndrome (AGS) is an inherited encephalopathy that affects newborn infants and usually results in severe mental and physical handicap Loss-of-function mutations in ADAR p150 allow persistent activation of the interferon system by Alu dsRNAs and are causal for Aicardi-Goutières Syndrome
+ ADAR   An important inflection point has been the identification of the Z-DNA binding domain named Zα from the dsRNA editing protein ADAR</description>
+    </item>
+    
+    <item>
+      <title>Transposons: The Jumping Genes</title>
+      <link>/post/2020/04/17/transposons-the-jumping-genes/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/17/transposons-the-jumping-genes/</guid>
+      <description>Transposable elements, or &amp;ldquo;jumping genes&amp;rdquo;, were first identified by Barbara McClintock more than 50 years ago. Why are transposons so common in eukaryotes, and exactly what do they do?
+ Transposable elements (TEs)make up approximately 50% of the human genome and up to 90% of the maize genome
+  class 1 TEs (Retrotransposons) and class 2 TEs (DNA Transposons)
+ DNA Transposons  All complete or &amp;ldquo;autonomous&amp;rdquo; class 2 TEs encode the protein transposase, which they require for insertion and excision Class 2 TEs are characterized by the presence of terminal inverted repeats.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,10 +17,7 @@
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/15/rtsne/</guid>
-      <description>Why we need tSNE?
-What is tSNE?
-How to do tSNE
-What is Rtsne?</description>
+      <description>Why we need tSNE?If you have worked with a dataset before with a lot of features, you can fathom how difficult it is to understand or explore the relationships between the features. Not only it makes the EDA process difficult but also affects the machine learning model’s performance since the chances are that you might overfit your model or violate some of the assumptions of the algorithm, like the independence of features in linear regression.</description>
     </item>
     
   </channel>

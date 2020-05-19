@@ -6,10 +6,31 @@
     <description>Recent content in Science on Just for your understanding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tetracycline (Tet) Inducible Expression</title>
+      <link>/post/2020/05/13/tetracycline-tet-inducible-expression/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/13/tetracycline-tet-inducible-expression/</guid>
+      <description>Tet Response Element (TRE) A TRE is 7 repeats of a 19 nucleotide tetracycline operator (tetO) sequence, and is recognized by the tetracycline repressor (tetR). In the endogenous bacterial system, if tetracycline, or one of its analogs like doxycycline, are present, tetR will bind to tetracycline and not to the TRE, permitting transcription.
+Tetracycline-dependent promoters are developed by placing a TRE upstream of a minimal promoter.
+Tetracycline Off System ( tTA-dependent system) tTA (tetracycline-controlled transactivator) = tetR+VP16</description>
+    </item>
+    
+    <item>
+      <title>The Scientist-2019 Top 10 Innovations</title>
+      <link>/post/2020/04/23/the-scientist-2019-top-10-innovations/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/04/23/the-scientist-2019-top-10-innovations/</guid>
+      <description>This year has proven to be a great one for the life sciences, and the 2010s have been an exciting decade. Here, The Scientist presents the fine-tuned tweaks and brand-new technologies that make up our Top 10 Innovations for 2019.
+Refeyn Refeyn One  In 2018, Philipp Kukura at the University of Oxford and his colleagues announced a technology they had developed, called mass photometry, that measures the weight of single molecules by the way they scatter light.</description>
+    </item>
     
     <item>
       <title>Genome Editing- crispr-cas9</title>
@@ -17,7 +38,7 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/08/01/genome-editing-crispr-cas9/</guid>
-      <description></description>
+      <description>Genome editing Genome editing (also called gene editing) is a group of technologies that give scientists the ability to change an organism&amp;rsquo;s DNA.These technologies allow genetic material to be added, removed, or altered at particular locations in the genome. Several approaches to genome editing have been developed. A recent one is known as CRISPR-Cas9, which is short for clustered regularly interspaced short palindromic repeats and CRISPR-associated protein 9. The CRISPR-Cas9 system has generated a lot of excitement in the scientific community because it is faster, cheaper, more accurate, and more efficient than other existing genome editing methods.</description>
     </item>
     
     <item>
@@ -27,9 +48,10 @@
       
       <guid>/post/2018/07/31/transplatation-immnunology/</guid>
       <description>Background Why I started to read transplatation immnunology?
+I&amp;rsquo;m trying to kill glioblastoma with allogenic macropahges.
 Here I recommended immunopaedia, which is supported by International Union of Immnunological Societies。
-First,
-Second,</description>
+Introduction   In a clinical setting, the term transplantation generally refers to the transfer or replacement of cells, tissues, or organs from one individual to another.
+  In the human, with the exception of transplantation of one’s own tissues, where the recognition of ‘‘self’’ components evokes no immune response, the transplantation of all other tissues, i.</description>
     </item>
     
     <item>
@@ -38,7 +60,7 @@ Second,</description>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/27/microscope-usage/</guid>
-      <description>background Lots of slides were stained by immunohistochemisty, but i can not get good pictures. Today I recognized my misusage of microscope with my supervisor&#39;s help.
+      <description>background Lots of slides were stained by immunohistochemisty, but i can not get good pictures. Today I recognized my misusage of microscope with my supervisor&amp;rsquo;s help.
 How should I take picutres withe microscope to get clear result? For the immunohistochemisty staining with DAB and couterstaining with hematoxilin.
 At the beginning, I tried the bright field with Ph1 and it was wrong. The picutures were very urgly and seemed not like the real condition.</description>
     </item>
@@ -49,7 +71,8 @@ At the beginning, I tried the bright field with Ph1 and it was wrong. The picutu
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/02/tcga-database/</guid>
-      <description></description>
+      <description>What is TCGA  The Cancer Genome Atlas (TCGA), a landmark cancer genomics program, molecular characterized over 20,000 primary &amp;gt;cancer and matched normal samples spanning 33 cancer types. This joint effort between the National Cancer Institute and &amp;gt;the National Human Genome Research Institute began in 2006, bringing together researchers from diverse disciplines and &amp;gt;multiple institutions.
+ How to access TCGA data  Access TCGA data through the Genomic Data Commons Data Portal, along with web-based analysis and visualization tools.</description>
     </item>
     
   </channel>

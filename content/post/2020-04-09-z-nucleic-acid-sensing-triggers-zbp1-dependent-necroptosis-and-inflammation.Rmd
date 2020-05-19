@@ -1,0 +1,47 @@
+---
+title: Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation
+author: Zijian
+date: '2020-04-09'
+slug: z-nucleic-acid-sensing-triggers-zbp1-dependent-necroptosis-and-inflammation
+categories:
+  - Genetics
+tags:
+  - necroptosis,inflammation
+---
+# Title
+> Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation
+
+# Citation
+>Jiao, H., Wachsmuth, L., Kumari, S. et al. Z-nucleic-acid sensing triggers ZBP1-dependent necroptosis and inflammation. Nature (2020).https://doi.org/10.1038/s41586-020-2129-8
+
+# Abtract
+>+ The biological function of Z-DNA and Z-RNA, nucleic acid structures with a left-handed double helix, is poorly understood1,2,3. 
+>+ Z-DNA-binding protein 1 (ZBP1; also known as DAI or DLM-1) is a nucleic acid sensor that contains two Zα domains that bind Z-DNA4,5 and Z-RNA6,7,8. 
+>+ ZBP1 mediates host defence against some viruses6,7,9,10,11,12,13,14 by sensing viral nucleic acids6,7,10. 
+>+ RIPK1 deficiency, or mutation of its RIP homotypic interaction motif (RHIM), triggers ZBP1-dependent necroptosis and inflammation in mice15,16. 
+>+ However, the mechanisms that induce ZBP1 activation in the absence of viral infection remain unknown.   
+> 1. Here we show that Zα-dependent sensing of endogenous ligands induces ZBP1-mediated perinatal lethality in mice expressing RIPK1 with mutated RHIM (Ripk1mR/mR), skin inflammation in mice with epidermis-specific RIPK1 deficiency (RIPK1E-KO) and colitis in mice with intestinal epithelial-specific FADD deficiency (FADDIEC-KO).   
+> 2. Consistently, functional Zα domains were required for ZBP1-induced necroptosis in fibroblasts that were treated with caspase inhibitors or express RIPK1 with mutated RHIM. Inhibition of nuclear export triggered the Zα-dependent activation of RIPK3 in the nucleus resulting in cell death, which suggests that ZBP1 may recognize nuclear Z-form nucleic acids. 
+> 3. We found that ZBP1 constitutively bound cellular double-stranded RNA in a Zα-dependent manner. Complementary reads derived from endogenous retroelements were detected in epidermal RNA, which suggests that double-stranded RNA derived from these retroelements may act as a Zα-domain ligand that triggers the activation of ZBP1. 
+> 4. Collectively, our results provide evidence that the sensing of endogenous Z-form nucleic acids by ZBP1 triggers RIPK3-dependent necroptosis and inflammation, which could underlie the development of chronic inflammatory conditions—particularly in individuals with mutations in RIPK1 and CASP817,18,19,20
+
+# Take home message
+
+ [Science news about this paper](https://www.sciencedaily.com/releases/2020/03/200331130051.htm) 
+ 
+
+> Researchers describe their discovery of a new mechanism that could 
+> contribute to the pathogenesis of inflammatory diseases. The scientists > found that ZBP1, a protein best known for defending against incoming 
+> viruses, is activated by sensing an unusual form of cellular genetic 
+> material (Z-nucleic acids), leading to cell death and inflammation.
+
+
+## What is necroptois
+
+> a caspase-independent form of programmed cell death called programmed  necrosis, or necroptosis, which depends on the adaptor kinase RIP3
+
+## What is ZBP1
+
+>ZBP-1 contained two receptor-interacting protein (RIP) homotypic interaction motifs (RHIMs) which recruiting RHIM-containging kinases  receprotor protein kinese 1 and 3 (RIP1 and RIP3) that activates NF-KB
+
+ 
